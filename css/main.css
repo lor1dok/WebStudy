@@ -5,7 +5,7 @@
 body {
    margin: 0; 
    font-family: 'Montserrat', sans-serif;
-   color: #000;
+   color: #212227;
 }
 
 .container {
@@ -86,7 +86,7 @@ body {
     line-height: 130%;
     
 
-    color: rgb(255, 255, 255);
+    color: #fffef4;
 }
 
 .header-subtitle {
@@ -101,7 +101,7 @@ body {
     letter-spacing: 0.2em;
     text-transform: uppercase;
 
-    color: white;
+    color: #fffef4;
 }
 
 /* Portfolio */
@@ -109,6 +109,7 @@ body {
 .portfolio {
     padding-top: 80px;
     padding-bottom: 115px;
+    background-color: #fffaee;
 }
 
 .section-header {
@@ -120,7 +121,7 @@ body {
     line-height: 130%;
 
     text-align: center;
-    color: black;
+    color: rgb(12, 12, 12);
 }
 
 .portfolio-cards-wrapping {
@@ -135,7 +136,7 @@ body {
 
     max-width: 540px;
 
-    background-color: #ffffff;
+    background-color: #fffef4;
     box-shadow: 0px 10px 40px rgba(125, 155, 189, 0.35);
 
     transition: transform 0.2s ease-in;
@@ -149,7 +150,7 @@ body {
     padding: 20px;
     display: block;
     text-decoration: none;
-    color: black;
+    color: #212227;
     transition: color 0.2s ease-in;
 }
 
@@ -188,7 +189,7 @@ body {
     padding-bottom: 130px;
 
     background: #1E4776;
-    color: white;
+    color: №fffef4;
 }
 
 .footer-row {
@@ -200,6 +201,7 @@ body {
 .footer-col {
     max-width: 350px;
     flex-grow: 1;
+    color: #fffef4;
 }
 
 .footer-copyright {
@@ -241,10 +243,10 @@ body {
     padding-left: 30px;
     padding-right: 30px;
 
-    border: 3px solid #ffffff;
+    border: 3px solid #fffef4;
     border-radius: 50px;
 
-    color: #ffffff;
+    color: #fffef4;
     font-weight: 700;
     font-size: 16px;
     line-height: 44px;
@@ -255,7 +257,7 @@ body {
 }
 
 .footer-button:hover {
-    background-color:  white;
+    background-color: #fffef4;
     color: #1E4776;
 }
 
@@ -316,7 +318,7 @@ body {
 
 .project-btn-back:hover {
     background-color: #275bec;
-    color: white;
+    color: #fffef4;
 }
 
 /* Jokes */
