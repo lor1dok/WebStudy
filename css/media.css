@@ -30,6 +30,11 @@
 
 /* Для экранов шириной до 760px */
 @media (max-width: 760px) {
+
+    .header-arrow {
+        bottom: 60px;
+    }
+
     .header-title {
         font-size: 32px;
     }
