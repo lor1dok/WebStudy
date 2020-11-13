@@ -12,6 +12,19 @@
     .footer-row {
         flex-direction: column-reverse;
         align-items: center;
+        text-align: center;
+    }
+
+    .footer-col {
+        margin-bottom: 20px;
+    }
+
+    .footer-col:first-child {
+        margin-bottom: 0;
+    }
+
+    .footer-icons-row {
+        justify-content: center;
     }
 }
 
@@ -62,5 +75,42 @@
 
     .card p {
         font-size: 14px;
+    }
+
+    .footer-copyright-name {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .footer-copyright p {
+        font-size: 14px;
+    }
+
+    .footer-contacts p {
+        font-size: 14px;
+        margin: 0;
+        margin-bottom: 15px;
+    }
+
+    .project {
+        padding: 40px 0 60px;
+    }
+
+    .project-header {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+
+    .project-img {
+        margin-bottom: 20px;
+    }
+
+    .project-description {
+        margin-bottom: 50px;
+    }
+
+    .project-btn-back {
+        padding: 0 10px;
+        width: 100%;
     }
 }
