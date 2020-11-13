@@ -3,6 +3,16 @@
     .card {
         width: calc(50% - 15px);
     }
+    
+    .footer {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    
+    .footer-row {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
 }
 
 /* Для экранов шириной до 760px */
@@ -52,10 +62,5 @@
 
     .card p {
         font-size: 14px;
-    }
-    
-    .footer-row {
-        flex-direction: ;
-        align-items: center;
     }
 }
